@@ -1,0 +1,22 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "Returns information about the system making the request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaneRich5/header-parser-microservice.git"
+  },
+  "author": "Shane Richards <shane.richards121@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaneRich5/header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/ShaneRich5/header-parser-microservice#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
